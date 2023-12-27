@@ -4,7 +4,8 @@ The codes are to reproduce the figures and data analysis within our manuscript t
 The codes are classified by their function on model simulation, statistical analysis, and spatial hyperuniformity. 
 
 
-Code:
+# Code:
+
 The fold within "sk and df" were modified from our previous pulished paper,
 
     sk and df # this fold icnludes all the statistical analysis on hyperuniform states. 
