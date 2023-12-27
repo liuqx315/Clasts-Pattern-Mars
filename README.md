@@ -7,9 +7,10 @@ The codes are classified by their function on model simulation, statistical anal
 Code:
 The fold within "sk and df" were modified from our previous pulished paper,
 
-    Huang MJ et al. 2021.Circular swimming motility and disordered hyperuniform state in an algae system by Huang et al, PNAS 118 (18) e2100493118 
+    sk and df # this fold icnludes all the statistical analysis on hyperuniform states. 
+    Huang MJ et al. 2021.Circular swimming motility and disordered hyperuniform state in an algae system, PNAS 118: e2100493118 
 
 The fold "Model simulation"  implement the clast reptation on sand ripples.
 
-    Werner 1995 cellular dune model# this file contains all simulation functions 
+    Model simulation # this file contains all simulation functions 
     Werner BT. 1995. Eolian dunes: computer simulation and attractor interpretation. Geology 23: 1107–1110.
