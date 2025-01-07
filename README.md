@@ -1,7 +1,7 @@
 # Clasts-Pattern-Mars
 The codes are to reproduce the figures and data analysis within our manuscript titled "Hyperuniformity on Mars: Pebbles scattered on sand" by Zheng Zhu, Bernard Hallet, Andras Sipos, Gabor Domokos, Quan-Xing Liu*, submitted to 2024. arXiv [Preprint] (2023). https://doi.org/10.48550/arXiv.2312.13818
 
-![Pebble on Mars](Pebble on Mars.png)
+![Pebble_on_Mars](Pebble_on_Mars.png)
 
 The codes are classified by their function on model simulation, statistical analysis, and spatial hyperuniformity. 
 
