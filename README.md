@@ -1,5 +1,5 @@
 # Clasts-Pattern-Mars
-The codes are to reproduce the figures and data analysis within our manuscript titled "Diverse patterns of pebbles on sand on Mars and Earth" by Zheng Zhu, Bernard Hallet, Andras Sipos, Gabor Domokos,Aileen Yingst, Quan-Xing Liu*, submitted to 2024. arXiv [Preprint] (2023). https://doi.org/10.48550/arXiv.2312.13818
+The codes are to reproduce the figures and data analysis within our manuscript titled "Diverse patterns of pebbles on sand on Mars and Earth" by Zheng Zhu, Bernard Hallet, Andras Sipos, Gabor Domokos, Aileen Yingst, Quan-Xing Liu*, 2025. Journal of Geophysical Research: Planets, arXiv [Preprint] (2023). https://doi.org/10.48550/arXiv.2312.13818
 
 ![Pebble_on_Mars](Pebble_on_Mars.png)
 
